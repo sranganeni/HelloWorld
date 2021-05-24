@@ -1,3 +1,4 @@
 # HelloWorld
 Practice Example
-This is edited. - practice update 2.
+This is first practice project.
+
